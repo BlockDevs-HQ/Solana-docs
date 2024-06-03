@@ -2,10 +2,7 @@
   "index": "Introduction",
   "wallet": "Wallet Guide",
   "advanced": "Development Overview",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
+
   "contact": {
     "title": "Contact ↗",
     "type": "page",
