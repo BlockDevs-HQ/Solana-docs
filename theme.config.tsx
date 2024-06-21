@@ -15,9 +15,6 @@ const config: DocsThemeConfig = {
   feedback: {
     content: null,
   },
-  editLink: {
-    content: null,
-  },
 };
 
 export default config;
