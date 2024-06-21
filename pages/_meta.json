@@ -2,11 +2,5 @@
   "index": "Introduction",
   "another": "Wallet Guide",
   "advanced": "Development Overview",
-  "concepts": "Core Concepts",
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
-  }
+  "concepts": "Core Concepts"
 }
